@@ -1,0 +1,26 @@
+
+
+
+.bg-About{
+    background-color: rgb(16, 2, 18);
+    width:100vw;
+    height:100vh; 
+    justify-content:center;
+    
+    
+    
+}
+
+.member_name{
+    color: rebeccapurple;
+}
+
+.our-team{
+    color: rgb(164, 118, 167);
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 45%;
+   
+    align-items: center;
+    font-size: 2rem;
+}
